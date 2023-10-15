@@ -8,7 +8,7 @@
 		"strength": 120,
 		"cost": 820,
 		"requiredTech": "Combined Arms",
-		"requiredResource": "Aluminium",
+		"requiredResource": "Aluminum",
 		"promotions": ["Accuracy I","Accuracy II","Cover I","Ambush I","Ambush II"],
 		"attackSound": "phasers"
 	}
