@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Warehouse",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"uniqueTo": "Null",
+		"cost": 120,
+		"hurryCostModifier": 200,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["55% of food is carried over after a new citizen is born","[+1 Food]"],
 		"requiredTech": "Engineering"
 	}
 ]
