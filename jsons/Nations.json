@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Null",
+		"leaderName": "Engima",
+		"adjective": ["unknown"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
