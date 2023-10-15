@@ -27,8 +27,8 @@
 		"afterPeace": "...",
 		"tradeRequest": ".?.",
 
-		"outerColor": [20,20,20],
-		"innerColor": [25,25,25],
+		"outerColor": [10,10,10],
+		"innerColor": [255,255,255],
 		"uniqueName": "Unknown Origin",
 		"uniques": ["[+2 Gold, +3 Food, +10 Science, +2 Culture, +5 Production][in all cities]","Free [Rifleman] appears"],
 		"cities": ["Main City","City 1","City 2","City 3","City 4","City 5","City 6","City 7","City 8",
