@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Railgun",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Null",
+		"replaces": "Anti-Tank Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"strength": 120,
+		"cost": 820,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Aluminium",
+		"promotions": ["Accuracy I","Accuracy II","Cover I","Ambush I","Ambush II"],
 		"attackSound": "phasers"
 	}
 ]
